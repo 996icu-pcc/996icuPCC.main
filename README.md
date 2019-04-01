@@ -14,7 +14,7 @@ The template is here <br/>
 * [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md)
 
 # TODO List
-* Improve the [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md) to a better version.
+* Improve the [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md)(Draft) to a better version.
 * Improve [996icu协作委员会宣言/996icuPCC Announcements](announcements/996icuPCC_announcements.md)(Draft).
 * Translate the [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md) to other languages.
 
