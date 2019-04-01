@@ -6,7 +6,7 @@ You can propose your ideas and suggestions about a 996icu and 996icuPCC with a p
 The differece between the proposal and issus is that proposal is much more formal way to expression yourself. <br/>
 You need to follow a format if you want to propose your idea and suggestion to the community. <br/>
 The template is here <br/>
-* [Proposal Templdate](/proposal/proposal_template.md)
+* [Proposal Template](/proposal/proposal_template.md)
 * [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md)
 
 # LICENSE
