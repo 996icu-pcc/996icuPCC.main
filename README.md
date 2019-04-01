@@ -17,6 +17,7 @@ The template is here <br/>
 * Improve the [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md)(Draft) to a better version.
 * Improve [996icu协作委员会宣言/996icuPCC Announcements](announcements/996icuPCC_announcements.md)(Draft).
 * Translate the [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md) to other languages.
+* Establish a voting mechanism for community discussion and future action.
 
 # LICENSE
 [996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
