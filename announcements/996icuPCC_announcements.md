@@ -22,7 +22,7 @@ To be updated
 ## 核心价值宣言
 
 (Draft)
-* Make everyone developer knows that 996 is harmful, inhumane and violates the labor law.
+* Make everyone, every developer knows that 996 is harmful, inhumane and violates the labor law.
 * 让所有的开发者理解996工作制有害大家的身体健康/行业环境, 不人道, 且违反劳动法.
 * Help the development of 996ICU Project and Activites.
 * 协助996ICU项目与相关活动的组织与发展.
