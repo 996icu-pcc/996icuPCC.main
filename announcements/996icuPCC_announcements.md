@@ -46,8 +46,8 @@ To be updated
 To be updated
 * Step 1 Receive a Proposal from Community
 * 第一步, 从社区中获取proposal
-* Step 2, Organize dicuession in Community
-* 第二步, 在社区中组织讨论
+* Step 2, Organize dicuession and voting in Community
+* 第二步, 在社区中组织讨论与投票
 * Step 3, Get Aggrements & Actions
 * 第三步, 取得共识, 社区成员按照共识各自行动
 
