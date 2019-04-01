@@ -9,5 +9,9 @@ The template is here <br/>
 * [Proposal Template](/proposal/proposal_template.md)
 * [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md)
 
+# TODO List
+* Improve the [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md) to a better version.
+* Translate the [关于提请成立996icu协作委员会的建议](/proposal/proposal_for_996icu_project_coporation_committee_zh.CN.md) to other languages.
+
 # LICENSE
 [996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
